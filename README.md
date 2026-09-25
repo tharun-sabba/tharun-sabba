@@ -1,86 +1,118 @@
-# Hi there 👋, I'm Sabba Tharun
+# Hi, I'm Sabba Tharun 👋
 
-🎓 MCA Student | 💻 Aspiring Software Engineer | 📍 Hyderabad,Telangana, India
+### MCA '26 Graduate | Aspiring Software Engineer | Java | Spring Boot | SQL
 
-Passionate about building software, solving problems, and continuously learning new technologies. Currently focusing on Java, Python, SQL, Cloud Computing, and Software Development.
+I'm an MCA graduate focused on building backend applications, strengthening
+problem-solving skills, and developing a strong foundation in software engineering.
 
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing Master of Computer Applications (MCA)
-- 🌱 Currently learning Java, Python, SQL, Git, GitHub, and AWS
-- 💡 Interested in Software Development, Cloud Computing, and Data Engineering
-- 🏋️ Fitness enthusiast focused on discipline and self-improvement
-- 🎯 Goal: Secure a Software Engineering Internship and become a skilled Software Engineer
+Currently focused on **Core Java, Data Structures & Algorithms, SQL/DBMS,
+Spring Boot, REST APIs, and AWS**.
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-### Programming Languages
-- Java
-- Python
-- SQL
+- 🎓 MCA '26 Graduate
+- 💻 Aspiring Software Engineer / Java Backend Developer
+- 🌱 Currently strengthening Core Java, DSA, SQL & Spring Boot
+- ☁️ Learning AWS and cloud-based application development
+- 🛠️ Interested in backend development, REST APIs and database-driven applications
+- 🎯 Looking for entry-level Software Engineer / Java Developer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Java • Python • JavaScript • SQL
+
+### Backend
+Spring Boot • REST APIs • Django
 
 ### Databases
-- MySQL
-
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
+MySQL • MongoDB
 
 ### Cloud
-- AWS
+AWS S3 • AWS EC2 • Cloud Storage
+
+### Tools
+Git • GitHub • VS Code • Maven
+
+### Other
+DSA • OOP • DBMS • Computer Vision • OpenCV • YOLO • OCR
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Employee Task Management
+**Java • Spring Boot • MySQL • REST APIs**
+
+A backend application for managing employees and their assigned tasks.
+
+- RESTful API development
+- CRUD operations
+- Database integration
+- Layered application architecture
+
+### 🔹 Smart Car Parking Space Monitoring
+**Python • OpenCV • YOLO • OCR • Django • MySQL**
+
+A computer vision-based system for monitoring parking spaces and detecting
+vehicle occupancy from CCTV footage.
+
+- Vehicle and parking-slot detection
+- License plate recognition using OCR
+- Parking and vehicle data management
+- MySQL database integration
+
+### 🔹 Cloud-Based Image Storage
+**React.js • Node.js • AWS S3 • MongoDB**
+
+A cloud-based application for uploading, storing and accessing images.
+
+- AWS S3 cloud storage
+- REST APIs
+- JWT authentication
+- MongoDB integration
 
 ---
 
 ## 📚 Currently Learning
 
+- Core Java & Advanced Java
 - Data Structures & Algorithms
-- Advanced Java
-- Database Management Systems
-- Cloud Computing with Azure
-- Software Engineering Best Practices
+- SQL & Database Management Systems
+- Spring Boot
+- REST API Development
+- AWS Cloud
 
 ---
 
-## 📂 Featured Repositories
+## 🎯 2026 Goals
 
-### 🔹 Java Fundamentals
-Java programs covering OOP, Collections, Exception Handling, File Handling, and more.
-
-### 🔹 Python Projects
-Python practice programs, automation scripts, and mini projects.
-
-### 🔹 SQL Practice
-Database concepts, queries, joins, procedures, and optimization examples.
-
-### 🔹 Git & GitHub Learning
-Version control concepts, workflows, branching, merging, and collaboration.
-
-### 🔹 AWS Learning Notes
-Hands-on notes and cloud computing concepts.
+- Strengthen Core Java and DSA
+- Build production-style Spring Boot applications
+- Improve SQL and DBMS expertise
+- Solve DSA problems consistently
+- Develop strong Git & GitHub workflows
+- Secure an entry-level Software Engineering role
 
 ---
 
-## 📈 GitHub Goals for 2026
+## 📊 GitHub Activity
 
-- ✅ Consistent daily contributions
-- ✅ Build 10+ practical projects
-- ✅ Master DSA
-- ✅ Learn Full Stack Development
-- ✅ Contribute to Open Source
+I use GitHub to document my learning, build projects, practice
+problem-solving, and improve my software development skills.
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-📧 Email: sabbatharun10@gmail.com
-
-🔗 GitHub: https://github.com/tharun-sabba
+- 💼 LinkedIn: [linkedin.com/in/tharun-sabba](https://www.linkedin.com/in/tharun-sabba)
+- 💻 GitHub: [github.com/tharun-sabba](https://github.com/tharun-sabba)
+- 📧 Email: sabbatharun10@gmail.com
 
 ---
 
-> "Success is the sum of small efforts repeated day in and day out."
+### 💡 "Build. Learn. Improve. Repeat."
