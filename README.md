@@ -66,17 +66,7 @@ vehicle occupancy from CCTV footage.
 - Parking and vehicle data management
 - MySQL database integration
 
-### 🔹 Cloud-Based Image Storage
-**React.js • Node.js • AWS S3 • MongoDB**
 
-A cloud-based application for uploading, storing and accessing images.
-
-- AWS S3 cloud storage
-- REST APIs
-- JWT authentication
-- MongoDB integration
-
----
 
 ## 📚 Currently Learning
 
