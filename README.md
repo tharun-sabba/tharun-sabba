@@ -14,9 +14,9 @@ Spring Boot, REST APIs, and AWS**.
 
 - 🎓 MCA '26 Graduate
 - 💻 Aspiring Software Engineer / Java Backend Developer
-- 🌱 Currently strengthening Core Java, DSA, SQL & Spring Boot
+- 🌱 Strengthening Core Java, DSA, SQL, and Spring Boot
 - ☁️ Learning AWS and cloud-based application development
-- 🛠️ Interested in backend development, REST APIs and database-driven applications
+- 🛠️ Interested in backend development, REST APIs, and database-driven applications
 - 🎯 Looking for entry-level Software Engineer / Java Developer opportunities
 
 ---
@@ -24,28 +24,35 @@ Spring Boot, REST APIs, and AWS**.
 ## 🛠️ Tech Stack
 
 ### Languages
+
 Java • Python • JavaScript • SQL
 
 ### Backend
+
 Spring Boot • REST APIs • Django
 
 ### Databases
+
 MySQL • MongoDB
 
 ### Cloud
-AWS S3 • AWS EC2 • Cloud Storage
+
+AWS S3 • AWS EC2
 
 ### Tools
+
 Git • GitHub • VS Code • Maven
 
-### Other
-DSA • OOP • DBMS • Computer Vision • OpenCV • YOLO • OCR
+### Concepts
+
+OOP • Data Structures & Algorithms • DBMS • Computer Vision
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Employee Task Management
+### 🔹 [Employee Task Management](https://github.com/tharun-sabba/employee-task-management)
+
 **Java • Spring Boot • MySQL • REST APIs**
 
 A backend application for managing employees and their assigned tasks.
@@ -55,7 +62,10 @@ A backend application for managing employees and their assigned tasks.
 - Database integration
 - Layered application architecture
 
-### 🔹 Smart Car Parking Space Monitoring
+---
+
+### 🔹 [Smart Car Parking Monitoring System](https://github.com/tharun-sabba/smart-car-parking-monitoring)
+
 **Python • OpenCV • YOLO • OCR • Django • MySQL**
 
 A computer vision-based system for monitoring parking spaces and detecting
@@ -65,6 +75,8 @@ vehicle occupancy from CCTV footage.
 - License plate recognition using OCR
 - Parking and vehicle data management
 - MySQL database integration
+
+---
 
 
 
@@ -79,30 +91,23 @@ vehicle occupancy from CCTV footage.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-- Strengthen Core Java and DSA
-- Build production-style Spring Boot applications
-- Improve SQL and DBMS expertise
-- Solve DSA problems consistently
-- Develop strong Git & GitHub workflows
-- Secure an entry-level Software Engineering role
-
----
-
-## 📊 GitHub Activity
-
-I use GitHub to document my learning, build projects, practice
-problem-solving, and improve my software development skills.
+- Strengthening Core Java and problem-solving
+- Practicing DSA using Java
+- Improving SQL and DBMS fundamentals
+- Building Spring Boot REST APIs
+- Developing production-style backend projects
+- Preparing for entry-level Software Engineer opportunities
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/tharun-sabba](https://www.linkedin.com/in/tharun-sabba)
-- 💻 GitHub: [github.com/tharun-sabba](https://github.com/tharun-sabba)
-- 📧 Email: sabbatharun10@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tharun-sabba)
+- 💻 [GitHub](https://github.com/tharun-sabba)
+- 📧 [Email](mailto:sabbatharun10@gmail.com)
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+### 💡 Build. Learn. Improve. Repeat.
